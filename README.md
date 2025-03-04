@@ -2,7 +2,7 @@
 
 ### Software Engineer | AI & Backend Developer | Python Enthusiast
 
-Passionate about building intelligent, scalable, and efficient backend systems using Python and AI. With 2 years of experience in software development, I specialize in designing robust architectures, integrating AI-driven solutions, and optimizing performance for high-impact applications.
+Passionate about building intelligent, scalable, and efficient backend systems using Python and AI. With 1 and a half plus years of experience in software development, I specialize in designing robust architectures, integrating AI-driven solutions, and optimizing performance for high-impact applications.
 
 ---
 
@@ -40,7 +40,7 @@ Passionate about building intelligent, scalable, and efficient backend systems u
 
 ## 🤖 Tech Stack
 ### **Languages & Frameworks**
-- **Python, C++, SQL, JavaScript, HTML/CSS**
+- **Python, Python, C++, SQL, JavaScript, HTML/CSS**
 - **Django, Flask, FastAPI**
 
 ### **Databases & ORMs**
