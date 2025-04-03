@@ -1,8 +1,8 @@
 # Hi there! I'm Eman Amir 👋
 
-### Software Engineer | AI & Backend Developer | Python Enthusiast
+### Software Engineer | AI & Backend Developer | Python Developer 
 
-Passionate about building intelligent, scalable, and efficient backend systems using Python and AI. With 1 and a half plus years of experience in software development, I specialize in designing robust architectures, integrating AI-driven solutions, and optimizing performance for high-impact applications.
+Passionate about building intelligent, scalable, and efficient backend systems using Python and AI. With aroud 2 years of experience in software development, I specialize in designing robust architectures, integrating AI-driven solutions, and optimizing performance for high-impact applications.
 
 ---
 
